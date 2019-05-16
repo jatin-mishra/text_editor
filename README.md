@@ -1,1 +1,1 @@
-# text_editor
+basic text editor using python
